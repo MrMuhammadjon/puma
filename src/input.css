@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    .top-one {
+        @apply translate-y-[-10px];
+    }
+    .transtion-one{
+        @apply transition-[1s];
+        @apply 
+    }
+}
